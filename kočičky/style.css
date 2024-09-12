@@ -9,6 +9,7 @@
 
 a { 
     text-decoration: none;
+    font-family: "Poppins", sans-serif;
 }
 
 p {
@@ -17,4 +18,17 @@ p {
 
 h1 {
     font-family: "Yeseva One", serif;
+}
+
+.navbar {
+    background-color: #E87774;
+
+}
+
+.banner {
+    background-image: url(../kočičky/img/banner.png);
+    height: 200px;
+    width: auto;
+    display: flex;
+    background-repeat: no-repeat;
 }
